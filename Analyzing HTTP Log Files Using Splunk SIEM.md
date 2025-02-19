@@ -1,5 +1,5 @@
-
 Introduction
+
 HTTP (Hypertext Transfer Protocol) log files contain valuable information about web server activity, including requests, responses, user agents, and more. Analyzing HTTP logs using Splunk SIEM enables security professionals to monitor web traffic, detect anomalies, and identify potential security threats.
 
 Project Overview
@@ -7,9 +7,9 @@ In this project, we will upload  HTTP log files to Splunk SIEM and perform vario
 
 Prerequisites
 Before starting the project, ensure the following:
-
 Splunk instance is installed and configured.
 HTTP log data sources are configured to forward logs to Splunk.
+
 Steps to Upload Sample HTTP Log Files to Splunk SIEM
 1. Prepare Sample HTTP Log Files
 Obtain  HTTP log files in a suitable format .
